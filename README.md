@@ -24,17 +24,17 @@
 
 ---
 
-# 💼 Portafolio Web – Sixto Morales Angel
+# Portafolio Web – Sixto Morales Angel
 
 ![Vista del portafolio](img/capturas/01-inicio.png)
 
 Portafolio personal responsivo hecho con **HTML, CSS y JavaScript** y **Bootstrap 5.3** como base de estilos. Parte de la plantilla gratuita **MyResume**, de **BootstrapMade**, distribuida por **ThemeWagon**. En él presento quién soy, mis habilidades, mi formación, mis proyectos y un formulario de contacto. Está publicado en GitHub Pages.
 
-🔗 **Ver en vivo:** https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/
+🔗 **Ver en vivo:** https://angelsixto.github.io/Actividad4_Programacion-Web/
 
 ---
 
-## 📋 Descripción del proyecto
+## Descripción del proyecto
 
 | Elemento | Detalle |
 |---|---|
@@ -58,7 +58,7 @@ La plantilla tiene un **menú lateral de iconos circulares**. En computadora, al
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 ```
 ├── README.md
@@ -77,7 +77,7 @@ La plantilla tiene un **menú lateral de iconos circulares**. En computadora, al
 
 ---
 
-## 🛠️ Proceso de creación (paso a paso)
+## Proceso de creación (paso a paso)
 
 1. **Elegir la plantilla.** En BootstrapMade revisé las plantillas gratuitas de portafolio y CV. Elegí **MyResume** porque usa Bootstrap 5.3, no depende de frameworks de JavaScript y su menú lateral de iconos le da un diseño diferente y limpio.
 2. **Descargar y revisar.** Descargué el .zip. La plantilla trae `assets/css/main.css` (1458 líneas), `assets/js/main.js`, la carpeta `assets/vendor/` con 11 librerías y secciones de ejemplo (*Hero, About, Stats, Skills, Resume, Portfolio, Services, Testimonials, Contact*).
@@ -103,7 +103,7 @@ La plantilla tiene un **menú lateral de iconos circulares**. En computadora, al
 
 ---
 
-## 📸 Capturas de pantalla
+## Capturas de pantalla
 
 **Inicio**
 ![Inicio](img/capturas/01-inicio.png)
@@ -118,17 +118,14 @@ La plantilla tiene un **menú lateral de iconos circulares**. En computadora, al
 ![Formación](img/capturas/04-resume.png)
 
 **Proyectos**
-![Proyectos](img/capturas/05-portfolio.png)
+![Proyectos](img/capturas/05-portafolio.png)
 
 **Contacto**
 ![Contacto](img/capturas/06-contact.png)
 
-**Vista en celular**
-
-<img src="img/capturas/07-movil.png" alt="Vista móvil" width="300">
 
 ---
 
-## 📄 Créditos
+## Créditos
 
 Plantilla base: [MyResume](https://bootstrapmade.com/free-html-bootstrap-template-my-resume/), diseñada por [BootstrapMade](https://bootstrapmade.com/) y distribuida por [ThemeWagon](https://themewagon.com/). Contenido y personalización: Sixto Morales Angel.
